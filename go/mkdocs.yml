@@ -1,0 +1,12 @@
+site_name: monorepo/go
+nav:
+  - Getting Started:
+    - Overview: getting-started/overview.md
+    - Test: getting-started/test.md
+  - Design:
+    - Architecture: design/architecture.md
+  - Setting:
+    - Error Logging: setting/error-logging.md
+
+plugins:
+  - techdocs-core
